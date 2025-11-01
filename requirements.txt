@@ -1,4 +1,4 @@
 Python
 pandas
 streamlit
-Excel
+OpenPyXL (for Excel file handling)
