@@ -1,4 +1,4 @@
-Python
-pandas
-streamlit
-OpenPyXL (for Excel file handling)
+streamlit==1.39.0
+pandas==2.2.2
+openpyxl==3.1.2
+numpy==1.26.4
